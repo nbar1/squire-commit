@@ -1,0 +1,20 @@
+{
+  "name": "squire-commit",
+  "version": "0.1.0",
+  "description": "Adds a better basic commits to your squire development toolkit",
+  "main": "import-project-files.sh",
+  "private": true,
+  "bin": {
+    "squire-commit": "commit.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbar1/squire-commit.git"
+  },
+  "author": "Nick Barone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbar1/squire-commit/issues"
+  },
+  "homepage": "https://github.com/nbar1/squire-commit#readme"
+}
